@@ -1,4 +1,6 @@
 Rails.application.routes.draw do
+  root "paginas#inicio"
+  get "como-se-juega", to: "paginas#como_se_juega", as: :como_se_juega
   resource :session
   resources :passwords, param: :token
   # Define your application routes per the DSL in https://guides.rubyonrails.org/routing.html
