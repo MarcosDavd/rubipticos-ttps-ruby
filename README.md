@@ -5,6 +5,9 @@
 cd rubipticos-ttps-ruby
 ```
 ``` bash
+yarn install
+```
+``` bash
 bin/setup
 ```
 Instala las gemas de Ruby y las dependencias de JavaScript, prepara la base de datos y arranca la aplicación.
