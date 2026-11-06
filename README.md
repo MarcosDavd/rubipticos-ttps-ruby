@@ -1,5 +1,21 @@
 # Rubipticos 
 ## Trabajo integrador final de la TTPS opcion ruby
+| # | Issue | Persona |
+|---|---|---|
+| 1 | Estructura de la base de datos y setup | Julian |
+| 2 | Layout base y «Cómo se juega» | David |
+| 3 | Jugador: cookie y nombre | David |
+| 4 | Gestión de usuarios del backend (Admin y Editor de puntajes) | Joaquina |
+| 5 | Catálogo de crípticos: validación y admin | Joaquina |
+| 6 | Puntos de cada críptico y configuración | Julian |
+| 7 | Sistema de puntaje y racha | Julian |
+| 8 | Partida (con pistas y compartir resultado) | Adrian |
+| 9 | Críptico del día | Adrian |
+| 10 | Sincronización y seeds | Lauti |
+| 11 | Tabla de posiciones | David |
+| 12 | Admin de jugadores | David |
+| 13 | Módulo de estadísticas | Lauti |
+La issue de chatbot queda libre, queda asignada dependiendo de como vaya el proyecto
 ## Como levantar el proyecto
 ``` bash
 cd rubipticos-ttps-ruby
